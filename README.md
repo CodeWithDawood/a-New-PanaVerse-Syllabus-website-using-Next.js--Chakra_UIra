@@ -1,0 +1,1 @@
+# New-PanaVerse-Syllabus-website-using-Next.js--Chakra_UIra
